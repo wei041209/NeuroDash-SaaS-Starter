@@ -60,9 +60,25 @@ This is a frontend starter template.
 
 ## Screenshots
 
-_Add screenshots here._
+## Screenshots
 
-(Upload 4–6 images of landing page + dashboard + workspace)
+### Landing Page
+![Landing](assets/LandingHero.png)
+
+### Dashboard Overview
+![Dashboard](assets/DashboardOverview.png)
+
+### AI Workspace
+![AI Playground](assets/AIPlayground.png)
+
+### Meeting Transcript UI
+![Meeting Transcript](assets/MeetingTranscript.png)
+
+### Billing Page
+![Billing](assets/Billing.png)
+
+### Onboarding Flow
+![Onboarding](assets/OnboardingStepper.png)
 
 ---
 
