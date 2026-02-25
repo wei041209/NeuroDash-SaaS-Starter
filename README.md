@@ -60,8 +60,6 @@ This is a frontend starter template.
 
 ## Screenshots
 
-## Screenshots
-
 ### Landing Page
 ![Landing](assets/LandingHero.png)
 
