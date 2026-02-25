@@ -1,6 +1,16 @@
 # NeuroDash – AI SaaS Starter Kit
 
-Dark-mode AI SaaS dashboard starter built with Next.js 14 + TypeScript + TailwindCSS.
+AI SaaS Dashboard Template built with Next.js 14, TypeScript and TailwindCSS.
+
+A modern dark-mode SaaS starter template designed for building AI products, admin dashboards, and MVP web applications quickly.
+
+---
+
+## Overview
+
+NeuroDash is a Next.js SaaS starter template focused on AI dashboard layouts and clean UI foundations.
+
+It helps developers skip repetitive UI setup and focus on product logic.
 
 ---
 
